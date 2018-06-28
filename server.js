@@ -8,7 +8,7 @@ const profile = require("./client/src/routes/api/profile");
 const income = require("./client/src/routes/api/income");
 const expenses = require("./client/src/routes/api/expenses");
 const home = require("./client/src/routes/api/home");
-const userForm = require ("./client/src/routs/api/")
+const userForm = require("./client/src/routs/api/");
 
 const app = express();
 
