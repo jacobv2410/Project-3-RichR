@@ -21,6 +21,7 @@ class VarInc extends Component {
 
     this.props.callbackFromParent(value)
     this.setState({varInc: ""})
+    
 }
 
   render() {
