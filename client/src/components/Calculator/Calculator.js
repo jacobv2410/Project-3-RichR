@@ -77,7 +77,11 @@ class Calculator extends Component {
     console.log(retainedEarnings);
 
     this.setState({
-      retainedEarnings
+      retainedEarnings: retainedEarnings,
+netIncome: "",
+    monthlyHousing: "",
+    monthlyInsurance: "",
+    monthlyUtilities: "",
     });
   };
 
