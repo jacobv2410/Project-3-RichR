@@ -76,3 +76,16 @@ img {
 .logout-word {
   font-size: 30px;
 }
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 75px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.nav-link {
+  float: left;
+}
